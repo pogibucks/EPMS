@@ -1,0 +1,29 @@
+C:\Users\Jhon Jhon\Documents\VSC2022 SAMPLE\EPMSysLogin\EPMSysLogin\bin\Debug\EPMSysLogin.exe.config
+C:\Users\Jhon Jhon\Documents\VSC2022 SAMPLE\EPMSysLogin\EPMSysLogin\bin\Debug\EPMSysLogin.exe
+C:\Users\Jhon Jhon\Documents\VSC2022 SAMPLE\EPMSysLogin\EPMSysLogin\bin\Debug\EPMSysLogin.pdb
+C:\Users\Jhon Jhon\Documents\VSC2022 SAMPLE\EPMSysLogin\EPMSysLogin\obj\Debug\EPMSysLogin.csproj.AssemblyReference.cache
+C:\Users\Jhon Jhon\Documents\VSC2022 SAMPLE\EPMSysLogin\EPMSysLogin\obj\Debug\EPMSysLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jhon Jhon\Documents\VSC2022 SAMPLE\EPMSysLogin\EPMSysLogin\obj\Debug\EPMSysLogin.Login.resources
+C:\Users\Jhon Jhon\Documents\VSC2022 SAMPLE\EPMSysLogin\EPMSysLogin\obj\Debug\EPMSysLogin.Properties.Resources.resources
+C:\Users\Jhon Jhon\Documents\VSC2022 SAMPLE\EPMSysLogin\EPMSysLogin\obj\Debug\EPMSysLogin.csproj.GenerateResource.cache
+C:\Users\Jhon Jhon\Documents\VSC2022 SAMPLE\EPMSysLogin\EPMSysLogin\obj\Debug\EPMSysLogin.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Jhon\Documents\VSC2022 SAMPLE\EPMSysLogin\EPMSysLogin\obj\Debug\EPMSysLogin.exe
+C:\Users\Jhon Jhon\Documents\VSC2022 SAMPLE\EPMSysLogin\EPMSysLogin\obj\Debug\EPMSysLogin.pdb
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\bin\Debug\EPMSysLogin.exe.config
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\bin\Debug\EPMSysLogin.exe
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\bin\Debug\EPMSysLogin.pdb
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\obj\Debug\EPMSysLogin.csproj.AssemblyReference.cache
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\obj\Debug\EPMSysLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\obj\Debug\EPMSysLogin.FormUI.AddEmployee.resources
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\obj\Debug\EPMSysLogin.Login.resources
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\obj\Debug\EPMSysLogin.MainForm.resources
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\obj\Debug\EPMSysLogin.FormUI.SecurityControl.resources
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\obj\Debug\EPMSysLogin.MyUC.AddEmployee.resources
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\obj\Debug\EPMSysLogin.MyUC.EmployeeLeave.resources
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\obj\Debug\EPMSysLogin.MyUC.LeaveUC.resources
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\obj\Debug\EPMSysLogin.MyUC.ViewEmployee.resources
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\obj\Debug\EPMSysLogin.Properties.Resources.resources
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\obj\Debug\EPMSysLogin.csproj.GenerateResource.cache
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\obj\Debug\EPMSysLogin.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\obj\Debug\EPMSysLogin.exe
+C:\Users\Jhon Jhon\Desktop\EPMSysLogin - CopyVS\EPMSysLogin\obj\Debug\EPMSysLogin.pdb
